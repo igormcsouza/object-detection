@@ -1,0 +1,11 @@
+# API
+Flask==1.1.2
+Flask-Cors==3.0.8
+Flask-RESTful==0.3.8
+requests==2.23.0
+
+## Web 
+gunicorn==19.9.0
+
+# Service
+opencv-python-headless

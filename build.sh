@@ -1,0 +1,1 @@
+docker build . -t igormcsouza/object-detection:development
